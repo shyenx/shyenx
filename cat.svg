@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 96" width="144" height="96" shape-rendering="crispEdges" role="img" aria-label="pixel black cat with yellow eyes">
+  <title>shyenx pixel cat</title>
+  <!-- 12x8 pixel grid, each cell 12svg-units -->
+  <g fill="#1f1d1a">
+    <!-- ear tips + tail tip (row 0) -->
+    <rect x="12"  y="0"  width="12" height="12"/>
+    <rect x="60"  y="0"  width="12" height="12"/>
+    <rect x="132" y="0"  width="12" height="12"/>
+    <!-- ears fill + tail curl (row 1) -->
+    <rect x="0"   y="12" width="36" height="12"/>
+    <rect x="48"  y="12" width="36" height="12"/>
+    <rect x="108" y="12" width="36" height="12"/>
+    <!-- head top + tail base (row 2) -->
+    <rect x="0"   y="24" width="84" height="12"/>
+    <rect x="96"  y="24" width="36" height="12"/>
+    <!-- eyes line 1 — black frame (row 3) -->
+    <rect x="0"   y="36" width="12" height="12"/>
+    <rect x="36"  y="36" width="24" height="12"/>
+    <rect x="84"  y="36" width="36" height="12"/>
+    <!-- eyes line 2 — black frame (row 4) -->
+    <rect x="0"   y="48" width="12" height="12"/>
+    <rect x="36"  y="48" width="24" height="12"/>
+    <rect x="84"  y="48" width="24" height="12"/>
+    <!-- mid body (row 5) -->
+    <rect x="0"   y="60" width="96" height="12"/>
+    <!-- lower body (row 6) -->
+    <rect x="12"  y="72" width="72" height="12"/>
+    <!-- front paws (row 7) -->
+    <rect x="12"  y="84" width="24" height="12"/>
+    <rect x="60"  y="84" width="24" height="12"/>
+  </g>
+  <!-- yellow eyes -->
+  <g fill="#f5d442">
+    <rect x="12"  y="36" width="24" height="12"/>
+    <rect x="60"  y="36" width="24" height="12"/>
+    <rect x="12"  y="48" width="24" height="12"/>
+    <rect x="60"  y="48" width="24" height="12"/>
+  </g>
+</svg>
